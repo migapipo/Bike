@@ -2,15 +2,14 @@
 This is an Android application which is developed to help user monitor their bikes locations.
 
 
-
 1. Technical 
 - Functionality
   - What does the system actually do?
-    -- This system can help user locate their bike and notify the user if the bike has abnormal movements. 
-    -- this satisfy the minimum functional requirements for the proposed business model?
+    - This system can help user locate their bike and notify the user if the bike has abnormal movements. 
+    - this satisfy the minimum functional requirements for the proposed business model?
   - How technically difficult is it to build?
-    -- This is a prototype of our idea. Due to the limited time for this project, we only implement the baseline of this Android application. (including basic functions and UI/UX)
-     -- Deductions for significant bugs.
+    - This is a prototype of our idea. Due to the limited time for this project, we only implement the baseline of this Android application. (including basic functions and UI/UX)
+     - Deductions for significant bugs.
 
 2. UI/UX
 ○ Does it look and feel good?
