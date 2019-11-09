@@ -11,26 +11,17 @@ This is an Android application which is developed to help user monitor their bik
     - This is a prototype of our idea. Due to the limited time for this project, we only implement the baseline of this Android application. (including basic functions and UI/UX)
      - Deductions for significant bugs.
 
-2. UI/UX
-○ Does it look and feel good?
-○ Is it intuitive and easy to use?
-○ Is it designed with the target audience in mind?
+- UI/UX
+  - In order to make our application look and feel good for our users, we designed with the target audience in mind. This application is intuitive and easy to use.
+  
 3. Commercial
-- Viability​(10%)
-○ How well do they understand the problem they are trying to address?
-○ How does the product solve the problem?
-○ Is there a market for the product?
-○ Could this become a real business that makes money?
-- Strategy
-  - Have they identified their competitors? How will they deal with them?
-  - What is their go-to-market plan?
-  - Have they identified what features still need to be added to the
-product? 
+- Viability
+○ Our goal is to solve the problems with increasing number of missing bikes in the Melbourne city. We trying to help people to track the location of their bikes to keep their bike safe. We believe it will have the commercial value because it will be a helpful product for the bike user to track their bike and reduce the risk of their bikes being stolen. 
+
 4. Inspirational
 - Impact​(15%)
   - Are they tackling a significant problem?
-  - Does it address the theme of ‘Envisioning a Better Melbourne’
-  - Note that this is a hurdle requirement. Hacks must address this point in order to be eligible for a prize.
+  - This project addressed the theme of ‘Envisioning a Better Melbourne’
   - Is the idea creative? Does the product have unique or original features?
 5. Communication
   - Was the pitch clear and concise?
