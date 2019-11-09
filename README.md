@@ -16,10 +16,10 @@ This is an Android application which is developed to help user monitor their bik
   
 3. Commercial
 - Viability
-○ Our goal is to solve the problems with increasing number of missing bikes in the Melbourne city. We trying to help people to track the location of their bikes to keep their bike safe. We believe it will have the commercial value because it will be a helpful product for the bike user to track their bike and reduce the risk of their bikes being stolen. 
+  - Our goal is to solve the problems with increasing number of missing bikes in the Melbourne city. We trying to help people to track the location of their bikes to keep their bike safe. We believe it will have the commercial value because it will be a helpful product for the bike user to track their bike and reduce the risk of their bikes being stolen. 
 
 4. Inspirational
-- Impact​(15%)
+- Impact
   - Are they tackling a significant problem?
   - This project addressed the theme of ‘Envisioning a Better Melbourne’
   - Is the idea creative? Does the product have unique or original features?
