@@ -11,7 +11,7 @@ Some information about this project:
     - This is a prototype of our idea. Due to the limited time for this project, we only implement the baseline of this Android application. (including basic functions and UI/UX)
      - Deductions for significant bugs.
 
-- UI/UX
+2. UI/UX
   - In order to make our application look and feel good for our users, we designed with the target audience in mind. This application is intuitive and easy to use.
   
 3. Commercial
