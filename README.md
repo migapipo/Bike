@@ -16,6 +16,6 @@ Some information about this project:
   
 3. Commercial
 - Viability
-  - Our goal is to solve the problems with the increasing number of missing bikes in Melbourne city. We trying to help people to track the location of their bikes to keep their bikes safe. We believe it will have commercial value because it will be a helpful product for bike users to track their bike and reduce the risk of their bikes being stolen. 
+  - In this project, our goal is to solve the problems with the increasing number of missing bikes in Melbourne city. We trying to help people to track the location of their bikes to keep their bikes safe. We believe it will have commercial value because it will be a helpful product for bike users to track their bike and reduce the risk of their bikes being stolen. 
  
 
